@@ -3,7 +3,6 @@ Default `sudo nmap -sVC -T4 127.0.0.1 -oA results.txt`
 
 UDP `nmap -sU 127.0.0.1` 
 
-___________________________________________________________________
 # Fuzzing
 
 Directory
@@ -29,9 +28,9 @@ Good wordlists
 # Services enumeration
 
 FTP Enumeration
-`ftp 127.0.0.1` - Connecting to the FTP server using the `ftp` client.
+`ftp 127.0.0.1` - Connecting to the FTP server using the ftp client.
 
-`nc -v 127.0.0.1 21` - Connecting to the FTP server using `netcat`.
+`nc -v 127.0.0.1 21` - Connecting to the FTP server using netcat.
 
 `hydra -l user1 -P /usr/share/wordlists/rockyou.txt ftp://127.0.0.1` - Brute-forcing the FTP service.
 
