@@ -20,3 +20,11 @@ Good wordlists
 | `/opt/useful/seclists/Discovery/Web-Content/web-extensions.txt`           | Extensions Wordlist     |
 | `/opt/useful/seclists/Discovery/DNS/subdomains-top1million-5000.txt`      | Domain Wordlist         |
 | `/opt/useful/seclists/Discovery/Web-Content/burp-parameter-names.txt`     | Parameters Wordlist     |
+
+# FTP Enumeration
+`ftp 127.0.0.1` - Connecting to the FTP server using the `ftp` client.
+`nc -v 127.0.0.1 21` - Connecting to the FTP server using `netcat`.
+`hydra -l user1 -P /usr/share/wordlists/rockyou.txt ftp://127.0.0.1` - Brute-forcing the FTP service.
+
+# Attacking SMB 
+
