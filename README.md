@@ -1,6 +1,9 @@
 # First Enumeration 
 Default `sudo nmap -sVC -T4 127.0.0.1 -oA results.txt`
+
 UDP `nmap -sU 127.0.0.1` 
+
+/////////////////////////////////////////////////////////////////////////
 
 Directory
 `ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -u "http://127.0.0.1/FUZZ" -mc -ic`
