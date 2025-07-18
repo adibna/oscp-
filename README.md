@@ -1,17 +1,16 @@
 # First Enumeration 
 `sudo nmap -sVC -T4 127.0.0.1 -oA results.txt`
 
-# Directory
+Directory
 `ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -u "http://127.0.0.1/FUZZ" -mc -ic`
-# Extensions
+Extensions
 `ffuf -w wordlist.txt -u "http://127.0.0.1/indexFUZZ"`
-# Recursive
+Recursive
 `ffuf -w wordlist.txt -u "http://127.0.0.1/FUZZ" -recursion -recursion-depth 1 -e .php -v`
-# VHOST
+VHOST
 `ffuf -w wordlist.txt -u http://127.0.0.1/ -H 'Host: FUZZ.127.0.0.1' -fs xxx`
 
-# Good wordlists
-
+Good wordlists
 | **Command**                                                               | **Description**         |
 | ------------------------------------------------------------------------- | ----------------------- |
 | `/opt/useful/seclists/Discovery/Web-Content/directory-list-2.3-small.txt` | Directory/Page Wordlist |
