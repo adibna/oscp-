@@ -28,6 +28,7 @@ Good wordlists
 # Services enumeration
 
 FTP Enumeration
+
 `ftp 127.0.0.1` - Connecting to the FTP server using the ftp client.
 
 `nc -v 127.0.0.1 21` - Connecting to the FTP server using netcat.
