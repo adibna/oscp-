@@ -90,5 +90,5 @@ I can also confidently say that many of the machines on HTB nowadays are very si
 
 # YOU ARE THE NEXT OSCP+ MY FRIEND, I WISH GOOD LUCK!
 
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtnMjB1Z3BvczJ5MjY5ODEwYnIzOGd5YW5ucDRhOG54eW0wcGFleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRtK3t3i67tRK4dfez/giphy.gif
+<div class="tenor-gif-embed" data-postid="6610578319413376915" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/trump-donald-trump-thumbs-up-you-the-best-you-are-the-best-gif-6610578319413376915">Trump Donald Trump GIF</a>from <a href="https://tenor.com/search/trump-gifs">Trump GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
