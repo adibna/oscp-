@@ -88,7 +88,9 @@ I personally felt the Linux machines were easy. I had some difficulty with the W
 
 I can also confidently say that many of the machines on HTB nowadays are very similar to OSCP+ boxes. If you can complete Medium-level machines on HTB (or even some of the Easy ones), you will have zero difficulty with the OSCP+.
 
-# YOU ARE THE NEXT OSCP+ MY FRIEND, I WISH GOOD LUCK!
+# WHO IS THE NEXT OSCP+?
 
-<div class="tenor-gif-embed" data-postid="6610578319413376915" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/trump-donald-trump-thumbs-up-you-the-best-you-are-the-best-gif-6610578319413376915">Trump Donald Trump GIF</a>from <a href="https://tenor.com/search/trump-gifs">Trump GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![make-america-great-again-maga](https://github.com/user-attachments/assets/6a118010-4672-49e2-bd6f-fab719b810f0)
+
+
 
