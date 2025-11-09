@@ -37,3 +37,22 @@ FTP Enumeration
 
 Attacking SMB 
 
+`netexec smb 127.0.0.1`
+
+`netexec smb host/127.0.0.1 -u user -p pass --shares`
+
+`netexec smb host/127.0.0.1 -u guest -p '' --shares`
+
+`smbclient -N -L //ip`
+
+`smbclient //127.0.0.1/share -N`
+
+`smbclient //127.0.0.1/share -U username password`
+
+
+
+Great Content (Maybe the most important in the journey)
+
+Ippsec OSCP - `https://www.youtube.com/watch?v=2DqdPcbYcy8&list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf`
+HTB Machines to do - `docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview`
+
