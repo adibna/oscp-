@@ -49,10 +49,46 @@ Attacking SMB
 
 `smbclient //127.0.0.1/share -U username password`
 
+Security in mind (Basic Web Enumeration) - `https://www.youtube.com/watch?v=ZE_4ab-fdpk`
 
+Footprinting (Most Important) - `https://academy.hackthebox.com/module/112/section/1060`
 
-Great Content (Maybe the most important in the journey)
+Information Gathering - `https://academy.hackthebox.com/module/144/section/1247`
+
+________________________________________________________________________________________
+
+# Great Content (Maybe the most important in the journey)
+
+I highly recommend that anyone who wants to pass the OSCP+, or gain more knowledge about pentesting in general, complete this course on HTB Academy. In my opinion, this is what gave me more than sufficient knowledge to pass the OSCP+ with full points.
+
+CPTS - `https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist`
 
 Ippsec OSCP - `https://www.youtube.com/watch?v=2DqdPcbYcy8&list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf`
+
 HTB Machines to do - `docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview`
+
+The Cyber Mentor (Attacking Active Directory) - `https://www.youtube.com/watch?v=VXxH4n684HE&t=7392s`
+
+The Cyber Mentor (Windows Privilege Escalation) - `https://www.youtube.com/watch?v=uTcrbNBcoxQ`
+
+The Cyber Mentor (Linux Privilege Escalation) - `https://www.youtube.com/watch?v=ZTnwg3qCdVM&t=9s`
+
+Derron C (Attacking Active Directory) - `https://www.youtube.com/watch?v=gY_9Dncjw-s&list=PLT08J44ErMmb9qaEeTYl5diQW6jWVHCR2&index=1`
+
+
+# Final Considerations 
+
+In my opinion, the OffSec Academy content for the OSCP+ isn't sufficient on its own, especially if you don't already have a solid background in the CTF and Pentesting field.
+
+If you are starting from scratch, or perhaps transitioning from a Blue Team role and want to pass the OSCP+, the HTB Academy content combined with some boxes on HTB Labs will give you the necessary knowledge to pass more easily. I’ve seen many posts and other people talk about completing Pro Labs, but I didn't complete any of them and I don't feel like I missed out on anything.
+
+I earned my OSWP before taking the OSCP+. One thing I can say is that the allotted time is definitely enough to pass while still taking breaks. My advice is to sleep well before the exam, relax, and maybe drink a lot of coffee (it worked for me XD). You get 23 hours and 45 minutes to score the 70/100 points needed to pass, and then another 23 hours and 45 minutes to finish the report.
+
+I personally felt the Linux machines were easy. I had some difficulty with the Windows machines at one point, but I think that was just because I was very stressed and tired during the exam.
+
+I can also confidently say that many of the machines on HTB nowadays are very similar to OSCP+ boxes. If you can complete Medium-level machines on HTB (or even some of the Easy ones), you will have zero difficulty with the OSCP+.
+
+# YOU ARE THE NEXT OSCP+ MY FRIEND, I WISH GOOD LUCK!
+
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtnMjB1Z3BvczJ5MjY5ODEwYnIzOGd5YW5ucDRhOG54eW0wcGFleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRtK3t3i67tRK4dfez/giphy.gif
 
